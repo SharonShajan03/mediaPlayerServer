@@ -1,0 +1,41 @@
+{
+  "allVideos": [
+    {
+      "id": "26e8",
+      "caption": "aavesham trailer",
+      "url": "https://www.koimoi.com/wp-content/new-galleries/2024/04/release-date-trailer-cast-crew-heres-everything-you-need-to-know-about-aavesham.jpg",
+      "link": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "a04d",
+      "caption": "goat",
+      "url": "https://imgeng.jagran.com/images/2024/10/01/article/image/GOAT-OTT-Release-Date-confirmed-(1)-1727771237597.jpg",
+      "link": "https://www.youtube.com/embed/IZHGcU0U_W0"
+    }
+  ],
+  "categories": [
+    {
+      "id": "5111",
+      "categoryName": "trailer",
+      "allVideos": []
+    },
+    {
+      "id": "c1aa",
+      "categoryName": "trailer",
+      "allVideos": []
+    },
+    {
+      "id": "e37f",
+      "categoryName": "video",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "60d5",
+      "caption": "goat",
+      "link": "https://www.youtube.com/embed/IZHGcU0U_W0",
+      "timeStamp": "10/21/2024, 8:54:36 PM GMT+5:30"
+    }
+  ]
+}
